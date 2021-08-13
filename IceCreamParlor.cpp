@@ -1,9 +1,8 @@
-/*
- * Complete the 'whatFlavors' function below.
- *
- * The function accepts following parameters:
- *  1. INTEGER_ARRAY cost
- *  2. INTEGER money
+
+
+/* 
+ * Hash Tables: Ice Cream Parlor
+ * https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search
  */
 
 void whatFlavors(vector<int> cost, int money) {
